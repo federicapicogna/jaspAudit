@@ -94,6 +94,6 @@ Description
 	  Analysis
 	 {
 	 	title:			qsTr("Fairness Measures Workflow")
-	 	func:			"exampleAnalysis"
+        func:			"auditFairnessWorkflow"
 	 }
 }
